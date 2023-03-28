@@ -1,0 +1,1 @@
+# Coinbar Public Assets
