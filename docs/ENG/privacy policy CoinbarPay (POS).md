@@ -23,19 +23,16 @@ The collection of Data, whose nature is subsequently specified, is an essential 
 
 The definitions of terms and expressions used in the following information are contained in the Privacy Glossary, which can be viewed at this address: https://coinbar.io/glossario-privacy
 
-Who are we? ("Data Controller")
+***Who are we? ("Data Controller")***
+> Coinbar S.p.A. (Tax code and VAT number 14939301009), with registered office in Rome, Via della Marcigliana 532.
 
-Coinbar S.p.A. (Tax code and VAT number 14939301009), with registered office in Rome, Via della Marcigliana 532.
+***What categories of Personal Data do we process?***
+> Personal Data: Device ID on which the CoinbarPay POS application is installed, email address, phone number, to the minimum extent necessary to achieve each of the purposes indicated below.
 
-What categories of Personal Data do we process?
+***What is the origin of your Personal Data?***
+> Normally, the data is transmitted directly by the merchant. In other cases, we may have obtained it lawfully from third parties or from sources accessible to the public.
 
-Personal Data: Device ID on which the CoinbarPay POS application is installed, email address, phone number, to the minimum extent necessary to achieve each of the purposes indicated below.
-
-What is the origin of your Personal Data?
-
-Normally, the data is transmitted directly by the merchant. In other cases, we may have obtained it lawfully from third parties or from sources accessible to the public.
-
-Why do we process Personal Data (Purposes) and on what is the Processing based (Legal Basis) for each category of Data?
+***Why do we process Personal Data (Purposes) and on what is the Processing based (Legal Basis) for each category of Data?***
 
 | PURPOSE | CATEGORIES OF PERSONAL DATA	| LEGAL BASIS |
 | :---------: | :---------------------------: | :--------------: |
