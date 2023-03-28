@@ -1,17 +1,27 @@
-PRIVACY POLICY PER COINBARPAY POS
+# PRIVACY POLICY PER COINBARPAY POS
 
 Caro merchant,
 ringraziandoti per aver deciso di contribuire all’adozione dei pagamenti in criptovalute installando l’App CoinbarPay ti illustriamo la nostra privacy policy relativa al servizio in oggetto.
+
 In tale documento è presente una breve introduzione generica  relativa all’attività di raccolta di Dati Personali ed una seconda parte specifica relativa ai dati effettivamente acquisiti e gestiti nell’ambito dell’erogazione del servizio CoinbarPay POS.
+
 Coinbar ha particolarmente a cuore il rispetto della normativa posta a tutela della privacy e, più in generale, la protezione dei dati personali.
+
 In particolare, il “Regolamento Generale sulla Protezione dei Dati” UE 2016/679 (noto con l’acronimo inglese “GDPR”) richiede di fornire le seguenti informazioni sul trattamento dei Dati Personali, ai sensi degli artt. 13 e 14 del Regolamento citato.
+
 Con “Trattamento di Dati Personali” si intende una qualsiasi operazione riguardante qualunque “informazione relativa a persona fisica, identificata o identificabile”. 
+
 Nome e cognome, un indirizzo e-mail con un “nome utente” che identifichi una persona (es. mariorossi@….), sono considerati “Dati Personali”, così come può esserlo il wallet di provenienza dei fondi che vengono trasferiti su Coinbar, ove accompagnato dalla indicazione dei dati anagrafici del suo titolare. 
+
 Il fatto di raccogliere informazioni qualificabili come Dati Personali, registrarle presso i nostri sistemi e di utilizzarle per rendervi i Servizi erogati da Coinbar, o anche solo per inviarvi una comunicazione, sono considerate operazioni di Trattamento. Ugualmente, sono considerate operazioni di Trattamento la comunicazione di tali informazioni ad altri soggetti e la loro archiviazione.
 Il sito web dell’Autorità Garante per la Protezione dei Dati Personali contiene ulteriori informazioni utili per meglio comprendere il tema (cfr. ad es.: http://www.garanteprivacy.it/home/diritti).
+
 Coinbar S.p.a., ricopre pertanto il ruolo di “Titolare del Trattamento”, soggetto che stabilisce in che modo e per quali finalità trattare informazioni relative a persone fisiche.
+
 Voi, Clienti di Coinbar, in quanto “persone fisiche o giuridiche a cui si riferiscono i dati personali”, siete definiti “Interessati”, ed avete diritto di ricevere le seguenti informazioni su chi siamo, quali dati personali trattiamo, sul perché, su come e per quanto tempo li trattiamo, e su quali obblighi e diritti vi sono riconosciuti.
+
 La raccolta dei Dati, la cui natura è in seguito specificata, è un passaggio indispensabile al fine di poter erogare il servizio CoinbarPay.
+
 Le definizioni dei termini ed espressioni utilizzati nella seguente informativa sono contenuti nel Glossario Privacy, visionabile a questo indirizzo.
 
 Chi siamo? (“Titolare del Trattamento”)
