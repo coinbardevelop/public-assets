@@ -83,5 +83,5 @@ I clienti hanno diritto di visionare la lista dei responsabili esterni del tratt
 ***Se ha dubbi o domande sul Trattamento dei suoi Dati, cosa può fare?***
 >Voi avete il diritto riconosciuto da Coinbar SPA ad accedere ai Dati Personali in nostro possesso, a tal riguardo potete contattarci ai seguenti indirizzi mail: compliance@coinbar.io     info@coinbar.io
 
-Questa Privacy Policy è specifica per il servizio CoinbarPay POS, servizio di pagamento con valute virtuali riservato ai merchant ed è in vigore dal 20 Dicembre 2022.
+___Questa Privacy Policy è specifica per il servizio CoinbarPay POS, servizio di pagamento con valute virtuali riservato ai merchant ed è in vigore dal 20 Dicembre 2022.
 Coinbar si riserva di modificarne il contenuto, in parte o completamente, anche a seguito di variazioni della Normativa Privacy. Effettueremo la Pubblicazione sul Sito della versione aggiornata della Privacy Policy e da quel momento essa sarà vincolante: siete perciò invitati a visitare con regolarità questa sezione.
