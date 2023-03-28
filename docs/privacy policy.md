@@ -22,22 +22,20 @@ Voi, Clienti di Coinbar, in quanto “persone fisiche o giuridiche a cui si rife
 
 La raccolta dei Dati, la cui natura è in seguito specificata, è un passaggio indispensabile al fine di poter erogare il servizio CoinbarPay.
 
-Le definizioni dei termini ed espressioni utilizzati nella seguente informativa sono contenuti nel Glossario Privacy, visionabile a questo indirizzo.
+Le definizioni dei termini ed espressioni utilizzati nella seguente informativa sono contenuti nel Glossario Privacy, visionabile a questo [indirizzo](https://coinbar.io/glossario-privacy)
 
-Chi siamo? (“Titolare del Trattamento”)
-Coinbar S.p.A. (C.F. e P.IVA 14939301009), avente sede legale in Roma, alla Via della Marcigliana 532
-Quali categorie di Dati Personali trattiamo?
-Dati Personali: ID Device presso il quale si installa l’applicazione CoinbarPay POS, indirizzo email, numero di telefono, nella misura minima necessaria per il raggiungimento di ciascuna delle finalità sotto indicate;
-Qual è l’origine dei vostri Dati Personali?
-Di norma i dati vengono trasmessi direttamente dal merchant. In altri casi, potremmo averli ottenuti legittimamente da soggetti terzi o da fonti accessibili al pubblico.
+***Chi siamo? (“Titolare del Trattamento”)***
+> Coinbar S.p.A. (C.F. e P.IVA 14939301009), avente sede legale in Roma, alla Via della Marcigliana 532
 
+***Quali categorie di Dati Personali trattiamo?***
+> Dati Personali: ID Device presso il quale si installa l’applicazione CoinbarPay POS, indirizzo email, numero di telefono, nella misura minima necessaria per il raggiungimento di ciascuna delle finalità sotto indicate;
 
+***Qual è l’origine dei vostri Dati Personali?***
+> Di norma i dati vengono trasmessi direttamente dal merchant. In altri casi, potremmo averli ottenuti legittimamente da soggetti terzi o da fonti accessibili al pubblico.
 
-Perché trattiamo Dati Personali (Finalità) e su cosa si fonda il Trattamento (Base Giuridica) di ciascuna categoria di Dati?
+***Perché trattiamo Dati Personali (Finalità) e su cosa si fonda il Trattamento (Base Giuridica) di ciascuna categoria di Dati?***
 
-
-
-FINALITA’
+> FINALITA’
 CATEGORIE DI DATI PERSONALI
 BASE GIURIDICA
 Finalità connesse all’erogazione dei servizi
@@ -54,32 +52,8 @@ NUMERO DI TELEFONO
 La necessità di eseguire il Contratto con voi stipulato 
 Marketing (invio di materiale pubblicitario, comunicazione commerciale, vendita diretta e compimento di ricerche di mercato) verso Lead e/o Prospect, anche per mezzo della Newsletter
 
-
-
-
-
-
-
-
-
-
 Accertare, esercitare e/o difendere un diritto nelle sedi competenti
 EMAIL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 COMUNI
@@ -98,52 +72,42 @@ L’eventuale parziale o totale mancato conferimento dei dati comporterà la par
 
 
 
-N.B.: I Dati Personali non saranno utilizzati per finalità differenti da quelle sopra riportate se non dopo aver informato l’interessato e ottenuto il suo consenso, ove necessario.
+___N.B.: I Dati Personali non saranno utilizzati per finalità differenti da quelle sopra riportate se non dopo aver informato l’interessato e ottenuto il suo consenso, ove necessario.___
 
 
-A chi comunichiamo i Dati (Categorie di Destinatari)?
+***A chi comunichiamo i Dati (Categorie di Destinatari)?***
 
-Nella misura minima necessaria per il raggiungimento di ciascuna delle Finalità, comunichiamo i dati ricevuti alle seguenti Categorie di Destinatari:
+> Nella misura minima necessaria per il raggiungimento di ciascuna delle Finalità, comunichiamo i dati ricevuti alle seguenti Categorie di Destinatari:
 a) soggetti necessari per l’esecuzione delle attività connesse e conseguenti all’esecuzione del Contratto, che agiscono in qualità di Responsabili del Trattamento o come autonomi Titolari;
 b) altri soggetti da noi Autorizzati (es. nostri dipendenti), impegnati alla riservatezza o destinatari di un obbligo giuridico alla riservatezza;
 c) organizzazioni pubbliche e Autorità, se e nei limiti in cui ciò sia richiesto dalla Normativa Applicabile o da loro ordini, o per l’esercizio, l’accertamento e/o la difesa di un diritto in sede giudiziaria;
 Non vi è Diffusione di Dati Personali, fatta salva l’ipotesi in cui essa sia richiesta, in conformità alla legge, da Autorità, da organismi di informazione e sicurezza o da altri soggetti pubblici per finalità di difesa o di sicurezza dello Stato o di prevenzione, accertamento o repressione di reati.
 
 
-Per quanto tempo conserviamo i Dati?
-I dati saranno trattati e conservati a partire dal loro ricevimento o aggiornamento per il tempo strettamente necessario al perseguimento delle finalità sopra citate e, in ogni caso, salvo diverse indicazioni dell’interessato o disposizioni di legge che prevedono periodi superiori, per un periodo massimo di 24 mesi, dopodichè saranno cancellati e distrutti. 
+***Per quanto tempo conserviamo i Dati?***
+> I dati saranno trattati e conservati a partire dal loro ricevimento o aggiornamento per il tempo strettamente necessario al perseguimento delle finalità sopra citate e, in ogni caso, salvo diverse indicazioni dell’interessato o disposizioni di legge che prevedono periodi superiori, per un periodo massimo di 24 mesi, dopodichè saranno cancellati e distrutti. 
 Gli unici soggetti abilitati a trattare i dati sono membri del personale interno di Coinbar autorizzati e debitamente formati ed istruiti.
-Il Sito fa uso di Cookie?
-Si, per conoscere maggiori dettagli e per prendere visione della nostra politica al riguardo consulta la Cookie Policy.
-E’ obbligato a fornirmi i Dati Personali?
-La comunicazione dei Dati di Navigazione (che peraltro di norma non consistono in Dati Personali) è obbligatoria per consentirci di farla navigare sul Sito di Coinbar.
+
+***Il Sito fa uso di Cookie?***
+> Si, per conoscere maggiori dettagli e per prendere visione della nostra politica al riguardo consulta la Cookie Policy.
+
+***E’ obbligato a fornirmi i Dati Personali?***
+> La comunicazione dei Dati di Navigazione (che peraltro di norma non consistono in Dati Personali) è obbligatoria per consentirci di farla navigare sul Sito di Coinbar.
 I Visitatori, naturalmente, non sono obbligati a usufruire dei nostri Servizi, a scriverci attraverso la pagina Contatti, ad iscriversi alla Newsletter, ma se volessero farlo, devono comunicarci i Dati Personali che richiediamo.
 
-
-Cosa accade se rifiutate di comunicare i vostri Dati?
-Per via del funzionamento della rete Internet, i Visitatori non possono rifiutare la comunicazione dei Dati di Navigazione; il rifiuto di installare i Cookie non permette la corretta esecuzione del Sito.
+***Cosa accade se rifiutate di comunicare i vostri Dati?***
+> Per via del funzionamento della rete Internet, i Visitatori non possono rifiutare la comunicazione dei Dati di Navigazione; il rifiuto di installare i Cookie non permette la corretta esecuzione del Sito.
  Se gli Utenti rifiutano di comunicare i dati richiesti, non saremo in grado di instaurare e/o proseguire il Contratto ed erogare i nostri Servizi.
 
+***Trasferimento di dati all’estero***
+> Coinbar.it potrà trasferire alcuni Dati Personali a destinatari che si trovano al di fuori dello Spazio Economico Europeo. Assicuriamo che il trattamento (elettronico e cartaceo) dei Dati Personali da parte dei Destinatari avviene nel rispetto della Regolamento UE 2016/679 oppure che i trasferimenti si basano su una decisione di adeguatezza o sulle clausole contrattuali standard (Standard Model Clauses) approvate dalla Commissione Europea. La lista dei responsabili esterni del trattamento può essere richiesta contattando Coinbar.it
 
-Trasferimento di dati all’estero
-Coinbar.it potrà trasferire alcuni Dati Personali a destinatari che si trovano al di fuori dello Spazio Economico Europeo. Assicuriamo che il trattamento (elettronico e cartaceo) dei Dati Personali da parte dei Destinatari avviene nel rispetto della Regolamento UE 2016/679 oppure che i trasferimenti si basano su una decisione di adeguatezza o sulle clausole contrattuali standard (Standard Model Clauses) approvate dalla Commissione Europea. La lista dei responsabili esterni del trattamento può essere richiesta contattando Coinbar.it
-
-
-Quali diritti hanno gli Interessati?
-
- 
-Coinbar.it potrà trasferire alcuni Dati Personali a destinatari che si trovano al di fuori dello Spazio Economico Europeo. Assicuriamo che il trattamento (elettronico e cartaceo) dei Dati Personali da parte dei Destinatari avviene nel rispetto della Regolamento UE 2016/679 oppure che i trasferimenti si basano su una decisione di adeguatezza o sulle clausole contrattuali standard (Standard Model Clauses) approvate dalla Commissione Europea. 
+***Quali diritti hanno gli Interessati?*** 
+> Coinbar.it potrà trasferire alcuni Dati Personali a destinatari che si trovano al di fuori dello Spazio Economico Europeo. Assicuriamo che il trattamento (elettronico e cartaceo) dei Dati Personali da parte dei Destinatari avviene nel rispetto della Regolamento UE 2016/679 oppure che i trasferimenti si basano su una decisione di adeguatezza o sulle clausole contrattuali standard (Standard Model Clauses) approvate dalla Commissione Europea. 
 I clienti hanno diritto di visionare la lista dei responsabili esterni del trattamento che può essere richiesta contattando Coinbar.it
 
-
-Se ha dubbi o domande sul Trattamento dei suoi Dati, cosa può fare?
-Voi avete il diritto riconosciuto da Coinbar SPA ad accedere ai Dati Personali in nostro possesso, a tal riguardo potete contattarci ai seguenti indirizzi mail: compliance@coinbar.io     info@coinbar.io
-
-
-
-
-
+***Se ha dubbi o domande sul Trattamento dei suoi Dati, cosa può fare?***
+>Voi avete il diritto riconosciuto da Coinbar SPA ad accedere ai Dati Personali in nostro possesso, a tal riguardo potete contattarci ai seguenti indirizzi mail: compliance@coinbar.io     info@coinbar.io
 
 Questa Privacy Policy è specifica per il servizio CoinbarPay POS, servizio di pagamento con valute virtuali riservato ai merchant ed è in vigore dal 20 Dicembre 2022.
 Coinbar si riserva di modificarne il contenuto, in parte o completamente, anche a seguito di variazioni della Normativa Privacy. Effettueremo la Pubblicazione sul Sito della versione aggiornata della Privacy Policy e da quel momento essa sarà vincolante: siete perciò invitati a visitare con regolarità questa sezione.
-
