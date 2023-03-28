@@ -35,42 +35,16 @@ Le definizioni dei termini ed espressioni utilizzati nella seguente informativa 
 
 ***Perché trattiamo Dati Personali (Finalità) e su cosa si fonda il Trattamento (Base Giuridica) di ciascuna categoria di Dati?***
 
-> FINALITA’
-CATEGORIE DI DATI PERSONALI
-BASE GIURIDICA
-Finalità connesse all’erogazione dei servizi
-Comuni e Particolari
-La necessità di eseguire il Contratto con voi stipulato ed il Consenso – che deve intendersi obbligatorio – da parte vostra, poiché il mancato conferimento potrebbe rendere impossibile erogare i nostri Servizi
-Finalità connessa all’erogazione dei servizi ed alla funzionalità dell’app
-Comuni e Particolari (ID DEVICE DI INSTALLAZIONE APP)
-La necessità di eseguire il Contratto con voi stipulato 
-Finalità connessa all’erogazione dei servizi, alla funzionalità dell’app, all’erogazione del servizio di assistenza relativo a CoinbarPay POS
-EMAIL
-La necessità di eseguire il Contratto con voi stipulato 
-Finalità connessa all’erogazione dei servizi, alla funzionalità dell’app, all’erogazione del servizio di assistenza relativo a CoinbarPay POS
-NUMERO DI TELEFONO
-La necessità di eseguire il Contratto con voi stipulato 
-Marketing (invio di materiale pubblicitario, comunicazione commerciale, vendita diretta e compimento di ricerche di mercato) verso Lead e/o Prospect, anche per mezzo della Newsletter
-
-Accertare, esercitare e/o difendere un diritto nelle sedi competenti
-EMAIL
-
-
-COMUNI
-Il vostro consenso – facoltativo – liberamente prestato e revocabile in qualunque momento.
-L’eventuale parziale o totale mancato conferimento dei dati comporterà la parziale o totale impossibilità di raggiungere le finalità sopra indicate.
-La necessità di eseguire il Contratto stipulato o la necessità di adempiere ad obblighi giuridici
-Adempiere ad obblighi previsti dalla Normativa Applicabile e/o a ordini impartiti da Autorità
-COMUNI
-La necessità di eseguire il Contratto stipulato o la necessità di adempiere ad obblighi giuridici
-Finalità di ricerca scientifica o analisi statistiche su dati aggregati o anonimi, senza la possibilità di identificare l’utente, volti a misurare il funzionamento del Sito o il traffico e valutare usabilità e interesse oppure finalità connesse ad attività di marketing quali l’invio di informazioni promozionali, avvisi e aggiornamenti sulle nostre offerte/servizi, iniziative sociali, culturali e solidaristiche effettuate con modalità tradizionali di contatto (posta cartacea e/o chiamata telefonica con operatore) o automatizzate (e-mail, fax, sms, mms);
-COMUNI
-L’interesse legittimo di Coinbar (quello di poter presentare i nostri servizi), nonché il vostro consenso, liberamente prestato e revocabile in qualunque momento.
-L’eventuale parziale o totale mancato conferimento dei dati comporterà la parziale o totale impossibilità di raggiungere le finalità sopra indicate.
-
-
-
-
+| FINALITA’ | CATEGORIE DI DATI PERSONALI | BASE GIURIDICA |
+| :---------: | :---------------------------: | :--------------: |
+|Finalità connesse all’erogazione dei servizi | Comuni e Particolari | La necessità di eseguire il Contratto con voi stipulato ed il Consenso – che deve intendersi obbligatorio – da parte vostra, poiché il mancato conferimento potrebbe rendere impossibile erogare i nostri Servizi |
+|Finalità connessa all’erogazione dei servizi ed alla funzionalità dell’app | Comuni e Particolari (ID DEVICE DI INSTALLAZIONE APP) | La necessità di eseguire il Contratto con voi stipulato |
+| Finalità connessa all’erogazione dei servizi, alla funzionalità dell’app, all’erogazione del servizio di assistenza relativo a CoinbarPay POS | EMAIL | La necessità di eseguire il Contratto con voi stipulato |
+| Finalità connessa all’erogazione dei servizi, alla funzionalità dell’app, all’erogazione del servizio di assistenza relativo a CoinbarPay POS | NUMERO DI TELEFONO | La necessità di eseguire il Contratto con voi stipulato |
+| Marketing (invio di materiale pubblicitario, comunicazione commerciale, vendita diretta e compimento di ricerche di mercato) verso Lead e/o Prospect, anche per mezzo della Newsletter | EMAIL | Il vostro consenso – facoltativo – liberamente prestato e revocabile in qualunque momento. L’eventuale parziale o totale mancato conferimento dei dati comporterà la parziale o totale impossibilità di raggiungere le finalità sopra indicate. |
+| Accertare, esercitare e/o difendere un diritto nelle sedi competenti | COMUNI | La necessità di eseguire il Contratto stipulato o la necessità di adempiere ad obblighi giuridici | 
+| Adempiere ad obblighi previsti dalla Normativa Applicabile e/o a ordini impartiti da Autorità | COMUNI | La necessità di eseguire il Contratto stipulato o la necessità di adempiere ad obblighi giuridici |
+| Finalità di ricerca scientifica o analisi statistiche su dati aggregati o anonimi, senza la possibilità di identificare l’utente, volti a misurare il funzionamento del Sito o il traffico e valutare usabilità e interesse oppure finalità connesse ad attività di marketing quali l’invio di informazioni promozionali, avvisi e aggiornamenti sulle nostre offerte/servizi, iniziative sociali, culturali e solidaristiche effettuate con modalità tradizionali di contatto (posta cartacea e/o chiamata telefonica con operatore) o automatizzate (e-mail, fax, sms, mms); | COMUNI | L’interesse legittimo di Coinbar (quello di poter presentare i nostri servizi), nonché il vostro consenso, liberamente prestato e revocabile in qualunque momento. L’eventuale parziale o totale mancato conferimento dei dati comporterà la parziale o totale impossibilità di raggiungere le finalità sopra indicate. |
 
 ___N.B.: I Dati Personali non saranno utilizzati per finalità differenti da quelle sopra riportate se non dopo aver informato l’interessato e ottenuto il suo consenso, ove necessario.___
 
