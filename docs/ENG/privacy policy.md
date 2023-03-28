@@ -77,3 +77,9 @@ The only subjects authorized to process the data are Coinbar's duly authorized a
 ***What rights do Data Subjects have?***
 >Coinbar.it may transfer some Personal Data to recipients located outside the European Economic Area. We assure that the (electronic and paper) processing of Personal Data by the Recipients takes place in compliance with EU Regulation 2016/679 or that transfers are based on an adequacy decision or on the standard contractual clauses (Standard Model Clauses) approved by the European Commission.
 Customers have the right to view the list of external data processors, which can be requested by contacting Coinbar.it.
+
+***If you have doubts or questions about the Treatment of your Data, what can you do?***
+> You have the right recognized by Coinbar SPA to access the Personal Data in our possession, in this regard you can contact us at the following email addresses: compliance@coinbar.io info@coinbar.io
+
+___This Privacy Policy is specific to the CoinbarPay POS service, a virtual currency payment service reserved for merchants, and is in effect as of December 20, 2022.
+Coinbar reserves the right to modify its contents, in whole or in part, also following changes to Privacy Regulations. We will publish the updated version of the Privacy Policy on the Site and from that moment it will be binding: you are therefore invited to regularly visit this section.___
