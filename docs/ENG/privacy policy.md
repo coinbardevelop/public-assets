@@ -36,3 +36,14 @@ What is the origin of your Personal Data?
 Normally, the data is transmitted directly by the merchant. In other cases, we may have obtained it lawfully from third parties or from sources accessible to the public.
 
 Why do we process Personal Data (Purposes) and on what is the Processing based (Legal Basis) for each category of Data?
+
+| PURPOSE | CATEGORIES OF PERSONAL DATA	| LEGAL BASIS |
+| :---------: | :---------------------------: | :--------------: |
+| Purpose related to the provision of services | Common and Specific | The need to perform the Contract with you and the Consent - which must be considered mandatory - on your part, since failure to provide it may make it impossible to provide our Services |
+| Purpose related to the provision of services and app functionality | Common and Specific (INSTALLATION APP DEVICE ID) | The need to perform the Contract with you |
+| Purpose related to the provision of services, app functionality, and CoinbarPay POS support service | EMAIL | The need to perform the Contract with you |
+| Purpose related to the provision of services, app functionality, and CoinbarPay POS support service | PHONE NUMBER | The need to perform the Contract with you |
+| Marketing (sending advertising material, commercial communication, direct sales, and market research) to Leads and/or Prospects, also through the Newsletter | EMAIL | Your consent - optional - freely given and revocable at any time. The partial or total failure to provide data will result in the partial or total inability to achieve the above purposes. |
+| To establish, exercise and/or defend a right in competent courts | Common | The need to perform the stipulated Contract or the need to comply with legal obligations |
+| To comply with obligations provided for by Applicable Law and/or orders issued by Authorities | Common | The need to perform the stipulated Contract or the need to comply with legal obligations |
+| Purpose of scientific research or statistical analysis on aggregated or anonymous data, without the possibility of identifying the user, aimed at measuring the functioning of the Site or the traffic and evaluating usability and interest or purposes related to marketing activities such as sending promotional information, notices, and updates on our offers/services, social, cultural, and solidarity initiatives carried out through traditional contact methods (postal mail and/or telephone call with operator) or automated (email, fax, SMS, MMS); | Common | Coinbar's legitimate interest (to present our services), as well as your consent, freely given and revocable at any time. The partial or total failure to provide data will result in the partial or total inability to achieve the above purposes. |
